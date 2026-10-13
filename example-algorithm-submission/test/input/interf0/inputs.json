@@ -1,0 +1,36 @@
+[
+    {
+        "socket": {
+            "slug": "prostatectomy-tissue-whole-slide-image",
+            "relative_path": "images/prostatectomy-wsi",
+            "is_image_kind": true,
+            "is_panimg_kind": true,
+            "is_dicom_image_kind": false,
+            "is_json_kind": false,
+            "is_file_kind": false,
+            "is_json_file_kind": false
+        },
+        "file": null,
+        "image": {
+            "name": "the_original_filename_of_the_file_that_was_uploaded_or_image_set"
+        },
+        "value": null
+    },
+    {
+        "socket": {
+            "slug": "prostatectomy-tissue-mask",
+            "relative_path": "images/prostatectomy-tissue-mask",
+            "is_image_kind": true,
+            "is_panimg_kind": true,
+            "is_dicom_image_kind": false,
+            "is_json_kind": false,
+            "is_file_kind": false,
+            "is_json_file_kind": false
+        },
+        "file": null,
+        "image": {
+            "name": "the_original_filename_of_the_file_that_was_uploaded_or_image_set"
+        },
+        "value": null
+    }
+]
